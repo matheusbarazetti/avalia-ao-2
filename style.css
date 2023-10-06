@@ -1,0 +1,29 @@
+body{ 
+    background-color: rgb(230, 234, 241);
+
+}
+h1{
+    font-size: 80px;
+    color: black;
+    text-align: center;
+} p{ 
+    font-size: 25px;
+    text-align: center;
+}img{
+    width: 400px;
+    height: 400px;
+    margin-left: 150px;
+}
+.cabecalho{
+     background-color: rgb(210, 221, 240);
+     display: flex;
+}
+.logoimg{
+    width: 750px;;
+    height: 500px;
+}
+.listacabecalho{
+    font-display: flex;
+    margin-left: 10px;
+    margin-top: 10px;
+}
